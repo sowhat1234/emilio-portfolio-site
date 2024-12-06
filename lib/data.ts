@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Technical Support Engineer",
     location: "Herzliya, ISR",
     description:
-      "I worked as a Technical Support Engineer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I worked as a Technical Support Engineer for 2 years upskilling my knowlegde",
     icon: React.createElement(CgWorkAlt),
     date: "2022 - 2024",
   },
